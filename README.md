@@ -3,4 +3,5 @@
 
 ## Version
 ### v0.2.0
-- [ ] push my index.html to docker hub
+- [x] push my index.html to docker hub
+- https://hub.docker.com/r/memento12/nginx-my-html
